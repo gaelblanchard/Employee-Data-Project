@@ -1,0 +1,85 @@
+user_id,first_name,last_name,phonenumber,username,address
+11010,Alex,Yellman,1,Alex,212 Spaight Crossing
+11011,Baxter,Xova,2,Baxter,7 Saint Paul Drive
+11100,Carl,Wexler,3,Carl,42 Jackson Terrace
+11101,Dexter,Vaxis,4,Dexter,3 Bellgrove Center
+11111,Evan,Rels,5,Evan,0 Shopko Crossing
+100000,Frida,Pinto,6,Frida,943 Del Mar Court
+1,Grandios,Varios,7,Grandios,7 Mallory Drive
+100010,Hanzo,Uzamaki,8,Hanzo,971 Blackbird Terrace
+100100,Itachi,Uchiha,9,Itachi,87209 Portage Place
+100101,Jeff,Parker,10,Jeff,8 Kingsford Center
+100110,Kassy,Morez,11,Kassy,804 Monica Road
+100111,Latifah,Nachios,12,Latifah,875 Mosinee Point
+101000,Messa,Tessa,13,Messa,25331 Fulton Trail
+101001,Nick,Grant,14,Nick,51 Nelson Junction
+101010,Othello,Deralla,15,Othello,172 Schlimgen Court
+101011,Promethous,Rex,16,Promethous,64857 Shoshone Plaza
+101100,Qarl,Inno,17,Qarl,59 Summerview Junction
+101101,Render,Max,18,Render,40 Moulton Circle
+101110,Sam,Winchester,19,Sam,943 Clyde Gallagher Street
+111111,Trevor,Graham,20,Trevor,0573 Emmet Pass
+110000,Ulqouirra,Vince,21,Ulqouirra,90301 Starling Way
+110001,Venice,Beach,22,Venice,1859 Mifflin Lane
+110001,Waldo,Baxter,23,Waldo,7052 Cambridge Way
+110010,Xaverian,Cathos,24,Xaverian,1 Redwing Drive
+110011,Yimma,Thera,25,Yimma,09053 Bartelt Center
+2335544545,Zendaya,Coleman,26,Zendaya,623 Esker Park
+1101011,Alan,Anderson,27,Alan,4 Dorton Junction
+1101100,Beatrice,Elressa,28,Beatrice,432 Shasta Way
+1101101,Carlton,Frentaz,29,Carlton,85 Portage Hill
+1101110,Devante,Holeman,30,Devante,28817 Hintze Hill
+1101111,Eric,Jules,31,Eric,092 Sachs Terrace
+22,Fernandez,Kintos,32,Fernandez,848 Moulton Parkway
+10,George,Lopez,33,George,941 Orin Pass
+11,Heraldo,Nicinez,34,Heraldo,38631 Dayton Alley
+100,Imani,Okafor,35,Imani,2007 Talisman Circle
+101,James,Pearlman,36,James,6 Bobwhite Park
+110,Katherine,Qaxiverrian,37,Katherine,25 Fordem Avenue
+111,Louis,Souillant,38,Louis,7 Elka Terrace
+1120,Megan,Zavin,39,Megan,9 Dawn Hill
+1121,Nancy,Axter,40,Nancy,0 Autumn Leaf Way
+1112,Oprah,Ballamy,41,Oprah,06 Luster Avenue
+21111,Pedro,Charizard,42,Pedro,2 3rd Lane
+12222,Qeric,Dezgner,43,Qeric,69986 Ronald Regan Parkway
+12221,Ralph,Elric,44,Ralph,5169 Fieldstone Terrace
+12212,Sally,Frantzia,45,Sally,3149 Tomscot Alley
+12211,Timothy,Goalman,46,Timothy,633 Maywood Pass
+13122,Ulrich,Kassy,47,Ulrich,67216 Burrows Point
+13121,Winston,Qarl,48,Winston,15 Springs Center
+12113,Xander,Rals,49,Xander,395 Gale Street
+14111,Yourif,Pinto,50,Yourif,33181 Lyons Pass
+11555,Zeke,Yellman,51,Zeke,804 Bayside Parkway
+11663,Anderson,Yellman,52,Anderson,5090 Delladonna Street
+12344554,Beach,Wexler,53,Beach,65 Grover Junction
+9.99922E+12,Cathos,Xova,54,Cathos,3 Fordem Way
+9.9992E+11,Derella,Rals,55,Derella,24394 Welch Drive
+99992012888,Elressa,Vaxis,56,Elressa,87 Ridgeway Street
+999201888,Frentaz,Varios,57,Frentaz,03642 Bobwhite Lane
+9999918999,Grant,Pinto,58,Grant,739 Autumn Leaf Place
+99999179,Holeman,Uchiha,59,Holeman,64639 Little Fleur Park
+9999169999,Inno,Uzamaki,60,Inno,7415 Morning Plaza
+9999159999,Julez,Morez,61,Julez,0633 Fremont Crossing
+9999914999,Kintos,Parker,62,Kintos,9758 Evergreen Crossing
+1E+12,Lopez,Nachios,63,Lopez,828 Schurz Pass
+99991399999,Max,Tessa,64,Max,53047 Grim Place
+99999912999,Nicinez,Derella,65,Nicinez,744 Monica Avenue
+99911999,Okafor,Grant,66,Okafor,70818 Boyd Road
+999910999,Pearlman,Inno,67,Pearlman,2554 Haas Point
+999919999,Qaxivierian,Rex,68,Qaxivierian,00 Becker Way
+99999929999,Dean,Winchestor,69,Dean,6214 Lerdahl Alley
+99999939999,Souillant,Graham,70,Souillant,355 Debs Place
+999949999,Tessa,Beach,71,Tessa,6 Stang Place
+9999959999,Uzamaki,Vince,72,Uzamaki,329 High Crossing Road
+9999969999,Vince,Cathos,73,Vince,79869 Rockefeller Point
+999979999,Wexler,Baxter,74,Wexler,406 Buell Court
+9999998999,Xova,Baxtere,75,Xova,08805 Wayridge Road
+9999991,Yellman,Coleman,76,Yellman,653 Straubel Alley
+999992,Zevin,Theras,77,Zevin,70527 Mockingbird Avenue
+99993,Axter,Anderson,78,Axter,9 Nobel Park
+999994,Bellamy,Goalman,79,Bellamy,922 Donald Road
+999995,Charizard,Dezigner,80,Charizard,5998 Lindbergh Circle
+9999997,Dezigner,Pearlman,81,Dezigner,62 Crowley Trail
+99998,Elric,Winston,82,Elric,57 Larry Trail
+9999998,Frantzia,Yourif,83,Frantzia,00 Melrose Parkway
+9999999,Goalman,Zeke,84,Goalman,3341 1st Drive
