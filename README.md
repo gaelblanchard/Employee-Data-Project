@@ -4,10 +4,24 @@ Contributor(s): Gael Blanchard(https://github.com/gaelblanchard), Lloyd Massiah(
 
 Other Version(s):
 
-Requirements: Neo4j, MongoDB, pymongo, py2neo, csv
+Requirements: Neo4j, MongoDB, Python 3, pymongo, py2neo, csv
 
 Installation Instructions:
 
+### Instructions:
+
+1) Open Terminal Window
+
+2) Run the mongo daemon
+
+3) Start the Neo4j database in this case it should be titled Neo4j with the password (Not typical in actual deployment)
+
+4) Using cd command relocate to the directory containing the test_collab.py file
+
+5) a) Run following command in Terminal Window:  python3 test_collab.py file_1 file_2 file_3 file_4 file_5 file_6
+
+   b) Run following command in Terminal Window and follow instructions from the interface: python3 test_collab.py
+   
 # Objective(s):
 Given csv files that represent organizations, projects, employees and skills initialize 2 databases.
 One database is MongoDb and the other is Neo4j. Create a function to find a user and all of their related information. Create functions that can group users by a specific skill, degree,
