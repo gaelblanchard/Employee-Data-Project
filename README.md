@@ -8,7 +8,6 @@ Report:
 
 Requirements: Neo4j, MongoDB, Python 3, pymongo, py2neo, csv
 
-Installation Instructions:
 
 ### Instructions:
 
