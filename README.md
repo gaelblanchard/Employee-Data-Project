@@ -8,6 +8,11 @@ Report:
 
 Requirements: Neo4j, MongoDB, Python 3, pymongo, py2neo, csv
 
+# Objective(s):
+Given csv files that represent organizations, projects, employees and skills initialize 2 databases.
+One database is MongoDb and the other is Neo4j. Create a function to find a user and all of their related information. Create functions that can group users by a specific skill, degree,
+organization or location. Implement a function to determine users with same interests and skills within a 10 mile distance.
+Implement a function to determine a trusted colleague of colleagues. 
 
 ### Instructions:
 
@@ -22,15 +27,9 @@ Requirements: Neo4j, MongoDB, Python 3, pymongo, py2neo, csv
 5) a) Run following command in Terminal Window:  python3 test_collab.py file_1 file_2 file_3 file_4 file_5 file_6
 
    b) Run following command in Terminal Window and follow instructions from the interface: python3 test_collab.py
-   
-# Objective(s):
-Given csv files that represent organizations, projects, employees and skills initialize 2 databases.
-One database is MongoDb and the other is Neo4j. Create a function to find a user and all of their related information. Create functions that can group users by a specific skill, degree,
-organization or location. Implement a function to determine users with same interests and skills within a 10 mile distance.
-Implement a function to determine a trusted colleague of colleagues. 
 
 # Our Data:
-6 seperate csv files that have been provided. Therefore cleanup is not necessary. However if cleanup was necessary we could incorporate seperate procedures on every csv file following these stipulations:
+6 seperate csv files are provided. Therefore, cleanup is not necessary. However if cleanup was necessary we could incorporate seperate procedures on every csv file following these stipulations:
 
 User Csv file: Ensure no repetitions in user_id, and proper formats for all columns
 
