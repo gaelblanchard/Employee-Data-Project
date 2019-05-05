@@ -2,10 +2,6 @@
 
 Contributor(s): Gael Blanchard(https://github.com/gaelblanchard), Lloyd Massiah(https://github.com/lmassiah)
 
-Other Version(s):
-
-Report: 
-
 Requirements: Neo4j, MongoDB, Python 3, pymongo, py2neo, csv
 
 # Objective(s):
